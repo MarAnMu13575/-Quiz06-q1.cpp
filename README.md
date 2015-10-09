@@ -1,6 +1,6 @@
 # -Quiz06-q1.cpp
 
-#include <iostream>
+#include <iostream
 
 using namespace std;
 
